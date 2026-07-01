@@ -80,6 +80,12 @@ A boxing gym website featuring memberships, classes, and contact information.
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=acmalexamder05-web&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmalexamder05-web&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 # 🎯 2026 Goals
 
 - 🚀 Land my first freelance client
@@ -90,6 +96,12 @@ A boxing gym website featuring memberships, classes, and contact information.
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=acmalexamder05-web&theme=github-dark-blue&hide_border=true"/>
+</p>
+
 # 📫 Let's Connect
 
 🌐 Portfolio Website https://acmalexamder05-web.github.io/alexander-portfolio/
@@ -97,3 +109,5 @@ A boxing gym website featuring memberships, classes, and contact information.
 💼 LinkedIn https://www.linkedin.com/in/alexander-cruz-menendez-05330a2a9/
 
 📧 Email acmalexamder05@gmail.com
+
+> "Building websites that inspire trust, writing words that persuade, and developing the skills to secure tomorrow's digital world."
