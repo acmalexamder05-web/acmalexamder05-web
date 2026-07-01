@@ -11,7 +11,7 @@ I’m passionate about building modern websites, writing persuasive copy, and co
 ## 🌐 Portfolio Website
 A professional portfolio showcasing my work, skills, and services.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://acmalexamder05-web.github.io/alexander-portfolio/
 🔗 Repository: https://github.com/acmalexamder05-web/portfolio
 
 ---
@@ -80,7 +80,7 @@ A boxing gym website featuring memberships, classes, and contact information.
 
 # 📫 Let's Connect
 
-🌐 Portfolio Website *(Add Link)*
+🌐 Portfolio Website https://acmalexamder05-web.github.io/alexander-portfolio/
 
 💼 LinkedIn https://www.linkedin.com/in/alexander-cruz-menendez-05330a2a9/
 
