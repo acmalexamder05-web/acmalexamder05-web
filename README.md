@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hello, I'm Alexander Cruz
 
-<!--
-**acmalexamder05-web/acmalexamder05-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web Developer | ✍️ Copywriter | 🔒 Cybersecurity Student
 
-Here are some ideas to get you started:
+I’m passionate about building modern websites, writing persuasive copy, and continuously developing my cybersecurity skills. My goal is to create professional digital experiences that help businesses build trust and grow online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+A professional portfolio showcasing my work, skills, and services.
+
+🔗 Live Demo: *(Add your portfolio link here)*
+
+🔗 Repository: https://github.com/acmalexamder05-web/portfolio
+
+---
+
+## 🚗 Precision Auto Detailing
+A modern auto detailing website designed to showcase services and build customer trust.
+
+---
+
+## 💈 Elite Cuts
+A responsive website for a modern barbershop.
+
+---
+
+## 🥊 Elite Boxing Gym
+A boxing gym website featuring memberships, classes, and contact information.
+
+---
+
+# 🛠️ Skills & Technologies
+
+### Front-End Development
+- HTML5
+- CSS3
+- Responsive Design
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Copywriting
+- Website Copy
+- Sales Copy
+- Content Writing
+- Calls-to-Action (CTAs)
+
+### Cybersecurity
+- TryHackMe
+- Linux Fundamentals
+- Networking Basics
+- Web Security
+
+---
+
+# 📚 Currently Learning
+
+- JavaScript
+- ASP.NET Core MVC
+- C#
+- SQL
+- Cybersecurity
+- TryHackMe
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Land my first freelance client
+- 🌐 Build 10 professional websites
+- 🔒 Earn cybersecurity certifications
+- 💼 Secure a cybersecurity internship
+- 📈 Continue improving as a copywriter
+
+---
+
+# 📫 Let's Connect
+
+🌐 Portfolio Website *(Add Link)*
+
+💼 LinkedIn *(Add Link)*
+
+📧 Email *(Add Email)*
