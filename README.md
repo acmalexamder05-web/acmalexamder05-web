@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AlexCruzBaner.png" alt="Alexander Cruz Banner" width="100%">
+  <img src="AlexCruzBanner.png" alt="Alexander Cruz Banner" width="100%">
 </p>
 
 # 👋 Hello, I'm Alexander Cruz
