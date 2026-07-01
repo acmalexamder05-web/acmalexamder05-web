@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/AlexCruzBanner.png" alt="Alexander Cruz Banner" width="100%">
 </p>
+
 # 👋 Hello, I'm Alexander Cruz
 
 ## 💻 Web Developer | ✍️ Copywriter | 🔒 Cybersecurity Student
@@ -86,7 +87,8 @@ A boxing gym website featuring memberships, classes, and contact information.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=acmalexamder05-web&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmalexamder05-web&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-# 🎯 2026 Goals
+---
+## 🎯 2026 Goals
 
 - 🚀 Land my first freelance client
 - 🌐 Build 10 professional websites
@@ -110,4 +112,5 @@ A boxing gym website featuring memberships, classes, and contact information.
 
 📧 Email acmalexamder05@gmail.com
 
+---
 > "Building websites that inspire trust, writing words that persuade, and developing the skills to secure tomorrow's digital world."
