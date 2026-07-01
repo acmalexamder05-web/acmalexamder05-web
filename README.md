@@ -81,13 +81,7 @@ A boxing gym website featuring memberships, classes, and contact information.
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=acmalexamder05-web&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmalexamder05-web&layout=compact&theme=github_dark&hide_border=true" />
-</p>
----
 ## 🎯 2026 Goals
 
 - 🚀 Land my first freelance client
